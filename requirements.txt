@@ -1,0 +1,8 @@
+
+numpy
+matplotlib
+scikit-learn
+jupyter
+tensorflow==2.11.0  # Or PyTorch, depending on the framework used
+torch==2.0.1  # If PyTorch is preferred
+torchvision==0.15.2  # For datasets like CIFAR-10/MNIST in PyTorch
