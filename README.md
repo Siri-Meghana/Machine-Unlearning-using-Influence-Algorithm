@@ -1,30 +1,44 @@
-Machine Unlearning: Influence Algorithm
+Here’s a simplified version of the **README**:
 
-This project implements Machine Unlearning using the Influence Algorithm on two datasets: CIFAR-10 and MNIST.
+---
 
-Files
+# Machine Unlearning: Influence Algorithm
 
-- "Influence_Algo_CIFAR10.ipynb": Runs the Influence Algorithm on CIFAR-10 (color images).
-- "Influence_Algo_MNIST.ipynb": Applies the Influence Algorithm to MNIST (grayscale digits).
+This project implements **Machine Unlearning** using the **Influence Algorithm** on two datasets: **CIFAR-10** and **MNIST**.
 
-How to Use
+## Files
+
+- `Influence_Algo_CIFAR10.ipynb`: Runs the Influence Algorithm on CIFAR-10 (color images).
+- `Influence_Algo_MNIST.ipynb`: Applies the Influence Algorithm to MNIST (grayscale digits).
+
+## How to Use
 
 1. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 2. Open the notebooks in Jupyter:
+   ```bash
+   jupyter notebook
+   ```
 
 3. Run all cells to:
    - Train a model.
    - Compute influences.
    - Perform unlearning.
 
-Results
+## Results
 
 The notebooks show:
 - Model accuracy before and after unlearning.
 - Visualizations of unlearning effects.
 
-Requirements
+## Requirements
 
 - Python 3.8+
 - Libraries: TensorFlow/PyTorch, NumPy, Matplotlib, Scikit-learn.
+
+---
+
+Let me know if this works!
