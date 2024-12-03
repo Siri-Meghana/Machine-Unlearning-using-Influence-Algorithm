@@ -1,7 +1,3 @@
-Here’s a simplified version of the **README**:
-
----
-
 # Machine Unlearning: Influence Algorithm
 
 This project implements **Machine Unlearning** using the **Influence Algorithm** on two datasets: **CIFAR-10** and **MNIST**.
@@ -34,6 +30,3 @@ The notebooks show:
 - Python 3.8+
 - Libraries: TensorFlow/PyTorch, NumPy, Matplotlib, Scikit-learn.
 
----
-
-Let me know if this works!
