@@ -18,12 +18,7 @@ This project implements **Machine Unlearning** using the **Influence Algorithm**
    pip install -r requirements.txt
    ```
 
-2. Open the notebooks in Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-
-3. Run all cells to:
+2. Run all cells to:
    - Train a model.
    - Compute influences.
    - Perform unlearning.
